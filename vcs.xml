@@ -30,6 +30,10 @@
           <option name="url" value="https://git.coding.net/chenqiming/home-page.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.coding.net/keleshuxue/slide-home.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/WebstormProjects" />
