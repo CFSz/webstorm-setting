@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="fix" type="Less" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
